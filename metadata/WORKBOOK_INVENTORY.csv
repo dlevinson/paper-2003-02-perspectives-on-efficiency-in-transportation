@@ -1,0 +1,4 @@
+workbook,sheet,rows,columns,status,converted_csv
+data/original/Accessibility.xls,Propensity,39,27,converted,data/modernized/Accessibility_Propensity.csv
+data/original/Accessibility.xls,Sheet2,0,0,empty,
+data/original/Accessibility.xls,Sheet3,0,0,empty,
